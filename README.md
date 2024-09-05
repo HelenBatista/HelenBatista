@@ -7,14 +7,13 @@ Sou uma desenvolvedora apaixonada por tecnologia e aprendizado contínuo. Aqui v
 ## 🚀 Minha Habilidades:
 - **Linguagens:** Python
 - **Ferramentas:** Git, VSCode
-- **Frameworks:** FastAPI, Django
 
 ## 🌱 O que estou aprendendo:
 Atualmente, estou focada em:
-- Aprendendo Java 
+- Aprender HTML e CSS
 - Desenvolver APIs com FastAPI
 - Aprender TDD(Test Driven Developmente)
-- Integração de banco de dados NoSQL, como MongoDB
+- Integração de banco de dados NoSQL, com MongoDB
 
 ## 💬 Vamos Conversar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hcbatista)
